@@ -26,7 +26,7 @@ def open_file():
         txt.insert("1.0", content)
 
         root.title(f"{file_path} - PieNote")
-
+    
 
 def save_file():
     global current_file_path
@@ -84,7 +84,7 @@ def open_about():
     about_window.grab_set()
 
     label = tk.Label(
-        about_window, text="PieNote\nVersion 1.1\nBuilt By kotten.", pady=20
+        about_window, text="PieNote\nVersion 1.1.2\nBuilt By kotten.", pady=20
     )
     label.pack()
 
