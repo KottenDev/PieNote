@@ -1,2 +1,2 @@
 # PieNote
-PieNote is a simlistic notepad alternitive for windows.
+PieNote is a simplistic notepad alternitive for windows.
